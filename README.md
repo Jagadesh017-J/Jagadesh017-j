@@ -65,9 +65,6 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/17-Jagadesh" alt="LeetCode Stats" />
-</p>
 
 - 🧠 Practicing daily
 - 📘 Currently improving in Arrays, Strings, and Bitwise problem-solving
